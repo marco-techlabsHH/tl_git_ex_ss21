@@ -1,3 +1,0 @@
-Thanks for the intro, Marco! 
-This is my file. I pushed it using Terminal. Not having a GUI installed under Linux yet.
-Cheers Jörg
