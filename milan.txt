@@ -1,0 +1,5 @@
+Hi Marco,
+thank you for this great introduction! 
+Here is a terrible Git joke:
+When I see a door with a push sign, I pull first to avoid conflicts!😂
+What's your favorite Git joke?
